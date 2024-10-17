@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const searchBtn = document.getElementById('search-btn');
     const bookList = document.getElementById('book-list');
 
-    // API URL for Google Books
+    // API URL
     const API_URL = 'https://www.googleapis.com/books/v1/volumes?q=';
 
     // Event listener for the search button click
