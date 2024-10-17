@@ -1,46 +1,42 @@
-Book Explorer
-Author
-Amon
+# Book Explorer
 
-Description
 Book Explorer is a single-page web application that allows users to search for books using the Google Books API. Users can input a search query, and the app will retrieve and display relevant books along with their details such as title, author, cover image, and publication date. The app is built with HTML, CSS, and JavaScript, and all API interactions are handled asynchronously using JSON.
 
-Project Setup Instructions
-To run the project locally:
 
-Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/Amon4007/Phase-1-Project.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd Phase-1-Project
-Open the project: Open index.html in your preferred web browser to start the application.
+## Authors
 
-Usage:
+- [@Amon](https://www.github.com/amon)
 
-Enter a search term (e.g., book title or author) in the search bar.
-Click the Search button to fetch and display books.
-View the book cover, title, author, and publication date in the results.
-Link to Live Site
-Book Explorer Live
 
-Features
-Google Books API Integration: Retrieves data asynchronously and uses JSON for all API interactions.
-Responsive Design: The application is styled to be fully responsive, providing a seamless user experience on various devices.
-Search Functionality: Users can search for books by entering queries, and the app will display relevant results.
-Detailed Book Information: Each book result displays its cover image, title, author(s), and publication date.
-Clean and Intuitive UI: The app is designed with a user-friendly interface, ensuring ease of use.
-Technologies Used
+    
+## Technologies Used
 HTML
 CSS
-JavaScript 
+JavaScript
 Google Books API
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+MIT License
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 Copyright
 © 2024 Amon. All rights reserved.
