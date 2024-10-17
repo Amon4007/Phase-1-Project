@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 throw new Error('Failed to fetch data');
             }
             const data = await response.json();
-            displayBooks(data.items); // Google Books API returns items array
+            displayBooks(data.items);
         } catch (error) {
             console.error('Error fetching books:', error);
             bookList.innerHTML = '<p class="error">Something went wrong. Please try again later.</p>';
