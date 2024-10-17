@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // API URL
     const API_URL = 'https://www.googleapis.com/books/v1/volumes?q=';
 
-    // Event listener for the search button click
+    // Event listener for  search button
     searchBtn.addEventListener('click', () => {
         const query = searchInput.value.trim();
         if (query) {
