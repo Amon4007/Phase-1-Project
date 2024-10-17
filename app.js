@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Display books on the page
     function displayBooks(books) {
-        bookList.innerHTML = ''; // Clear previous results
+        bookList.innerHTML = '';
 
         if (!books || books.length === 0) {
             bookList.innerHTML = '<p class="no-results">No books found. Try another search.</p>';
