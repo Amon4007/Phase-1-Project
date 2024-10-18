@@ -13,9 +13,14 @@ Book Explorer is a single-page web application that allows users to search for b
     
 ## Technologies Used
 HTML
+
 CSS
+
 JavaScript
+
 Google Books API
+## Link to Live Site
+https://github.com/Amon4007/Phase-1-Project.git
 ## License
 MIT License
 
@@ -30,5 +35,12 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Copyright
-© 2024 Amon. All rights reserved
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Copyright (c) [2024] [Amon]
